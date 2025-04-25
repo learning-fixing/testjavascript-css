@@ -1,0 +1,33 @@
+.blue {
+    color: blueviolet;
+}
+
+.orange {
+    color: rgb(230, 109, 10);
+}
+
+
+h1 {
+    color: rgb(8, 253, 8);
+}
+
+body    {
+    color:red
+}
+
+#greenText {
+    color: green;
+  }
+
+.box {
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid blue
+
+}
+.transparent-green {
+    background-color: rgba(0, 128, 0, 0.5);
+    color: black;
+}
